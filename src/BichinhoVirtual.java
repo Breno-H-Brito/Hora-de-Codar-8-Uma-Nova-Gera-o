@@ -64,7 +64,7 @@ public class BichinhoVirtual {
         }
     }
 
-    // Método privado: apenas a própria classe controla a passagem do tempo
+    // Método privado
     private void passarTempo() {
         this.fome += 3;
         this.felicidade -= 3;
